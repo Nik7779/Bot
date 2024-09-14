@@ -18,6 +18,8 @@ let status = [
   },
   {
     name: '𝘼𝙥𝙥 𝘧𝘰𝘳 𝘾𝙯/𝙎𝙠 𝘓𝘦𝘢𝘨𝘶𝘦 𝘊𝘰𝘮𝘮𝘶𝘯𝘪𝘵𝘺.',
+    type: ActivityType.Streaming,
+    url: 'https://www.youtube.com/watch?v=nIuxVW6ugdk',
   },
 ];
 
